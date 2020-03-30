@@ -1,1 +1,1 @@
-# bitcoin_prediction
+# Project on Bitcoin prediction using linear regression 
